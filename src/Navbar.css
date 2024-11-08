@@ -1,0 +1,21 @@
+ .App{
+    display: none;
+    margin-left: 450px;
+} 
+.photo{
+    display: none;
+  
+  
+}
+
+@media screen and (min-width:992px) {
+
+         .App{
+            display: block;
+            color: whitesmoke;
+        } 
+    .photo{
+        display: block;
+    }
+   
+}
